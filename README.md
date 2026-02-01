@@ -2,6 +2,8 @@
 
 跨平台小说阅读器 App，支持 Android 和 iOS。
 
+> 推送测试 - 验证 Git 与 SSH 配置
+
 ## 技术栈
 
 - **移动端**: Flutter + Riverpod + GoRouter
